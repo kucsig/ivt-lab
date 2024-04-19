@@ -11,6 +11,7 @@ The application is simplified and deliberately contains bugs.
 - [JUnit](https://junit.org/junit5/) is used for tests, and [Mockito](https://site.mockito.org/) for isolating dependencies.
 
 Clone the repository and execute Maven to build the application:
+alma
 
 ```
 mvn compile
